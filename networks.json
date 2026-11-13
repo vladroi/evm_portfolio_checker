@@ -1,0 +1,246 @@
+{
+  "ethereum": {
+    "name": "Ethereum",
+    "chain_id": 1,
+    "native_symbol": "ETH",
+    "price_chain": "ethereum",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://ethereum-rpc.publicnode.com",
+      "https://eth.drpc.org",
+      "https://eth.api.pocket.network",
+      "https://cloudflare-eth.com",
+      "https://eth.meowrpc.com"
+    ]
+  },
+  "bsc": {
+    "name": "BNB Smart Chain",
+    "chain_id": 56,
+    "native_symbol": "BNB",
+    "price_chain": "bsc",
+    "native_price_id": "binancecoin",
+    "rpcs": [
+      "https://bsc-rpc.publicnode.com",
+      "https://bsc-dataseed.bnbchain.org",
+      "https://bsc.drpc.org",
+      "https://bsc.api.pocket.network",
+      "https://bsc-dataseed1.bnbchain.org"
+    ]
+  },
+  "polygon": {
+    "name": "Polygon PoS",
+    "chain_id": 137,
+    "native_symbol": "POL",
+    "price_chain": "polygon",
+    "native_price_id": "polygon-ecosystem-token",
+    "rpcs": [
+      "https://polygon-bor-rpc.publicnode.com",
+      "https://polygon.drpc.org",
+      "https://poly.api.pocket.network",
+      "https://rpcfree.com/polygon-rpc",
+      "https://rpc-polygon.blockmachine.io"
+    ]
+  },
+  "arbitrum": {
+    "name": "Arbitrum One",
+    "chain_id": 42161,
+    "native_symbol": "ETH",
+    "price_chain": "arbitrum",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://arb1.arbitrum.io/rpc",
+      "https://arbitrum-one-rpc.publicnode.com",
+      "https://arbitrum.drpc.org",
+      "https://arb-one.api.pocket.network",
+      "https://rpcfree.com/arbitrum-rpc"
+    ]
+  },
+  "optimism": {
+    "name": "Optimism",
+    "chain_id": 10,
+    "native_symbol": "ETH",
+    "price_chain": "optimism",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://mainnet.optimism.io",
+      "https://optimism-rpc.publicnode.com",
+      "https://optimism.drpc.org",
+      "https://op.api.pocket.network",
+      "https://rpc-optimism.blockmachine.io"
+    ]
+  },
+  "base": {
+    "name": "Base",
+    "chain_id": 8453,
+    "native_symbol": "ETH",
+    "price_chain": "base",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://mainnet.base.org",
+      "https://base-rpc.publicnode.com",
+      "https://base.drpc.org",
+      "https://base.api.pocket.network",
+      "https://rpcfree.com/base-rpc"
+    ]
+  },
+  "avalanche": {
+    "name": "Avalanche C-Chain",
+    "chain_id": 43114,
+    "native_symbol": "AVAX",
+    "price_chain": "avax",
+    "native_price_id": "avalanche-2",
+    "rpcs": [
+      "https://api.avax.network/ext/bc/C/rpc",
+      "https://avalanche-c-chain-rpc.publicnode.com",
+      "https://avalanche.drpc.org",
+      "https://avax.api.pocket.network",
+      "https://rpc.nodeflare.app/avax/public"
+    ]
+  },
+  "linea": {
+    "name": "Linea",
+    "chain_id": 59144,
+    "native_symbol": "ETH",
+    "price_chain": "linea",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://rpc.linea.build",
+      "https://linea-rpc.publicnode.com",
+      "https://linea.drpc.org",
+      "https://linea.api.pocket.network",
+      "https://linea.leorpc.com/?api_key=FREE"
+    ]
+  },
+  "zksync": {
+    "name": "zkSync Era",
+    "chain_id": 324,
+    "native_symbol": "ETH",
+    "price_chain": "era",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://mainnet.era.zksync.io",
+      "https://zksync.drpc.org",
+      "https://zksync-era.api.pocket.network"
+    ]
+  },
+  "opbnb": {
+    "name": "opBNB",
+    "chain_id": 204,
+    "native_symbol": "BNB",
+    "price_chain": "opbnb",
+    "native_price_id": "binancecoin",
+    "rpcs": [
+      "https://opbnb-mainnet-rpc.bnbchain.org",
+      "https://opbnb.publicnode.com",
+      "https://opbnb.api.pocket.network"
+    ]
+  },
+  "scroll": {
+    "name": "Scroll",
+    "chain_id": 534352,
+    "native_symbol": "ETH",
+    "price_chain": "scroll",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://rpc.scroll.io",
+      "https://scroll-rpc.publicnode.com",
+      "https://scroll.drpc.org",
+      "https://scroll.api.pocket.network",
+      "https://rpc-scroll.blockmachine.io"
+    ]
+  },
+  "blast": {
+    "name": "Blast",
+    "chain_id": 81457,
+    "native_symbol": "ETH",
+    "price_chain": "blast",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://rpc.blast.io",
+      "https://blast-rpc.publicnode.com",
+      "https://blast.drpc.org",
+      "https://blast.api.pocket.network"
+    ]
+  },
+  "mantle": {
+    "name": "Mantle",
+    "chain_id": 5000,
+    "native_symbol": "MNT",
+    "price_chain": "mantle",
+    "native_price_id": "mantle",
+    "rpcs": [
+      "https://rpc.mantle.xyz",
+      "https://mantle-rpc.publicnode.com",
+      "https://mantle.drpc.org",
+      "https://rpc-mantle.blockmachine.io"
+    ]
+  },
+  "gnosis": {
+    "name": "Gnosis",
+    "chain_id": 100,
+    "native_symbol": "xDAI",
+    "price_chain": "xdai",
+    "native_price_id": "dai",
+    "rpcs": [
+      "https://rpc.gnosischain.com",
+      "https://gnosis-rpc.publicnode.com",
+      "https://gnosis.drpc.org",
+      "https://gnosis.api.pocket.network"
+    ]
+  },
+  "celo": {
+    "name": "Celo",
+    "chain_id": 42220,
+    "native_symbol": "CELO",
+    "price_chain": "celo",
+    "native_price_id": "celo",
+    "rpcs": [
+      "https://forno.celo.org",
+      "https://celo-rpc.publicnode.com",
+      "https://celo.drpc.org",
+      "https://celo.api.pocket.network"
+    ]
+  },
+  "sonic": {
+    "name": "Sonic",
+    "chain_id": 146,
+    "native_symbol": "S",
+    "price_chain": "sonic",
+    "native_price_id": "sonic-3",
+    "rpcs": [
+      "https://rpc.soniclabs.com",
+      "https://sonic-rpc.publicnode.com",
+      "https://sonic.drpc.org",
+      "https://sonic.api.pocket.network",
+      "https://rpc.nodeflare.app/sonic/public"
+    ]
+  },
+  "unichain": {
+    "name": "Unichain",
+    "chain_id": 130,
+    "native_symbol": "ETH",
+    "price_chain": "unichain",
+    "native_price_id": "ethereum",
+    "rpcs": [
+      "https://mainnet.unichain.org",
+      "https://unichain-rpc.publicnode.com",
+      "https://unichain.drpc.org",
+      "https://unichain.api.pocket.network",
+      "https://rpc.nodeflare.app/unichain/public"
+    ]
+  },
+  "hyperevm": {
+    "name": "HyperEVM",
+    "chain_id": 999,
+    "native_symbol": "HYPE",
+    "price_chain": "hyperliquid",
+    "native_price_id": "hyperliquid",
+    "rpcs": [
+      "https://rpc.hyperliquid.xyz/evm",
+      "https://hyperliquid.drpc.org",
+      "https://rpc.hypurrscan.io",
+      "https://hyperliquid.api.pocket.network",
+      "https://rpc.nodeflare.app/hl/public"
+    ]
+  }
+}

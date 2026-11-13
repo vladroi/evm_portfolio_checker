@@ -1,0 +1,10 @@
+{
+  "zksync": [
+    "https://YOUR_PRIVATE_RPC_ENDPOINT_1",
+    "https://YOUR_PRIVATE_RPC_ENDPOINT_2"
+  ],
+  "opbnb": [
+    "https://YOUR_PRIVATE_RPC_ENDPOINT_1",
+    "https://YOUR_PRIVATE_RPC_ENDPOINT_2"
+  ]
+}

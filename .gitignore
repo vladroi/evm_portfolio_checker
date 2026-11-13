@@ -1,0 +1,62 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Private keys and secrets
+private_keys.txt
+private_keys*.txt
+seed*.txt
+mnemonic*.txt
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# Encrypted key storage
+local_vault/
+keystores/
+*.keystore
+
+# Personal configuration
+settings.json
+settings.local.json
+addresses.txt
+
+# Scanner results
+reports/
+reports_1/
+balances_report.csv
+balances_all.csv
+balances_nonzero.csv
+
+# Consolidator history and reports
+consolidation/
+
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Backups
+*_backup/
+*.bak
+
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Wallet keystore files
+0x*.json
+**/0x*.json
+local_vault/
